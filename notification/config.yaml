@@ -1,8 +1,8 @@
 ---
 smtp:
   from: "maiafzal@gmail.com"
-  username: "maiafzal@gmail.com"
-  password: "InDiA@9990"
+  username: ""
+  password: ""
   smtp_server: "smtp.gmail.com"
   smtp_port: "465"
 
