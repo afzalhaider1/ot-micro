@@ -1,0 +1,13 @@
+---
+smtp:
+  from: "maiafzal@gmail.com"
+  username: "maiafzal@gmail.com"
+  password: "InDiA@9990"
+  smtp_server: "smtp.gmail.com"
+  smtp_port: "465"
+
+elasticsearch:
+  username: "elastic"
+  password: "elastic"
+  host: "empms-es"
+  port: 9200

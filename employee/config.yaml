@@ -1,0 +1,9 @@
+---
+elasticsearch:
+  enabled: true
+  host: "empms-es:9200"
+  username: elastic
+  password: elastic
+
+employee:
+  api_port: "8083"
